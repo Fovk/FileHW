@@ -1,0 +1,7 @@
+c:\users\сулейменова.corp\source\repos\FileHW\FileHW\bin\Debug\FileHW.exe.config
+c:\users\сулейменова.corp\source\repos\FileHW\FileHW\bin\Debug\FileHW.exe
+c:\users\сулейменова.corp\source\repos\FileHW\FileHW\bin\Debug\FileHW.pdb
+c:\users\сулейменова.corp\source\repos\FileHW\FileHW\obj\Debug\FileHW.csprojAssemblyReference.cache
+c:\users\сулейменова.corp\source\repos\FileHW\FileHW\obj\Debug\FileHW.csproj.CoreCompileInputs.cache
+c:\users\сулейменова.corp\source\repos\FileHW\FileHW\obj\Debug\FileHW.exe
+c:\users\сулейменова.corp\source\repos\FileHW\FileHW\obj\Debug\FileHW.pdb
