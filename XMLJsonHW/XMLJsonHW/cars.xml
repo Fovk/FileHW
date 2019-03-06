@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<car>
+  <Id type="Guid">
+    8ace84bc-af65-4617-add0-214ff5ad1b28
+  </Id>
+  <Mark>Toyota</Mark>
+  <Model>Camry 50</Model>
+  <Price>30000</Price>
+</car>

@@ -1,0 +1,6 @@
+<car>
+  <Id type="Guid">971c9bff-123a-47f3-b691-340fd7aba48f</Id>
+  <Mark>Lada</Mark>
+  <Model>Prius</Model>
+  <Price>5000</Price>
+</car>

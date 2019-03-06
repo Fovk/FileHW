@@ -1,0 +1,9 @@
+C:\Users\СулейменовА.CORP\source\repos\XMLJsonHW\XMLJsonHW\bin\Debug\XMLJsonHW.exe.config
+C:\Users\СулейменовА.CORP\source\repos\XMLJsonHW\XMLJsonHW\bin\Debug\XMLJsonHW.exe
+C:\Users\СулейменовА.CORP\source\repos\XMLJsonHW\XMLJsonHW\bin\Debug\XMLJsonHW.pdb
+C:\Users\СулейменовА.CORP\source\repos\XMLJsonHW\XMLJsonHW\bin\Debug\Newtonsoft.Json.dll
+C:\Users\СулейменовА.CORP\source\repos\XMLJsonHW\XMLJsonHW\obj\Debug\XMLJsonHW.csprojAssemblyReference.cache
+C:\Users\СулейменовА.CORP\source\repos\XMLJsonHW\XMLJsonHW\obj\Debug\XMLJsonHW.csproj.CoreCompileInputs.cache
+C:\Users\СулейменовА.CORP\source\repos\XMLJsonHW\XMLJsonHW\obj\Debug\XMLJsonHW.csproj.CopyComplete
+C:\Users\СулейменовА.CORP\source\repos\XMLJsonHW\XMLJsonHW\obj\Debug\XMLJsonHW.exe
+C:\Users\СулейменовА.CORP\source\repos\XMLJsonHW\XMLJsonHW\obj\Debug\XMLJsonHW.pdb

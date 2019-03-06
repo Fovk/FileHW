@@ -1,0 +1,14 @@
+﻿[
+{
+  "Id": "18962556-b633-4af4-8864-78fb82b74b26",
+  "Mark": "Ford",
+  "Model": "Focus",
+  "Price": 20000
+},
+  {
+    "Id": "fb7c2716-39f9-4eaf-827f-acb64fbfea88",
+    "Mark": "Ford",
+    "Model": "Focus GT",
+    "Price": 23000
+  }
+]
