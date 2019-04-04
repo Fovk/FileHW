@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\InterfaceHW\InterfaceHW\bin\Debug\InterfaceHW.exe.config
+C:\Users\Dell\source\repos\InterfaceHW\InterfaceHW\bin\Debug\InterfaceHW.exe
+C:\Users\Dell\source\repos\InterfaceHW\InterfaceHW\bin\Debug\InterfaceHW.pdb
+C:\Users\Dell\source\repos\InterfaceHW\InterfaceHW\obj\Debug\InterfaceHW.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\InterfaceHW\InterfaceHW\obj\Debug\InterfaceHW.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\InterfaceHW\InterfaceHW\obj\Debug\InterfaceHW.exe
+C:\Users\Dell\source\repos\InterfaceHW\InterfaceHW\obj\Debug\InterfaceHW.pdb
+C:\Users\СулейменовА.CORP\source\repos\InterfaceHW\InterfaceHW\bin\Debug\InterfaceHW.exe.config
+C:\Users\СулейменовА.CORP\source\repos\InterfaceHW\InterfaceHW\bin\Debug\InterfaceHW.exe
+C:\Users\СулейменовА.CORP\source\repos\InterfaceHW\InterfaceHW\bin\Debug\InterfaceHW.pdb
+C:\Users\СулейменовА.CORP\source\repos\InterfaceHW\InterfaceHW\obj\Debug\InterfaceHW.csprojAssemblyReference.cache
+C:\Users\СулейменовА.CORP\source\repos\InterfaceHW\InterfaceHW\obj\Debug\InterfaceHW.csproj.CoreCompileInputs.cache
+C:\Users\СулейменовА.CORP\source\repos\InterfaceHW\InterfaceHW\obj\Debug\InterfaceHW.exe
+C:\Users\СулейменовА.CORP\source\repos\InterfaceHW\InterfaceHW\obj\Debug\InterfaceHW.pdb
+C:\Users\СулейменовА.CORP\source\repos\InterfaceHW\InterfaceHW\bin\Debug\HouseBuilding.dll
+C:\Users\СулейменовА.CORP\source\repos\InterfaceHW\InterfaceHW\bin\Debug\HouseBuilding.pdb
+C:\Users\СулейменовА.CORP\source\repos\InterfaceHW\InterfaceHW\obj\Debug\InterfaceHW.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\СулейменовА.CORP\source\repos\InterfaceHW\HouseBuilding\bin\Debug\HouseBuilding.dll
+C:\Users\СулейменовА.CORP\source\repos\InterfaceHW\HouseBuilding\bin\Debug\HouseBuilding.pdb
+C:\Users\СулейменовА.CORP\source\repos\InterfaceHW\HouseBuilding\obj\Debug\HouseBuilding.csprojAssemblyReference.cache
+C:\Users\СулейменовА.CORP\source\repos\InterfaceHW\HouseBuilding\obj\Debug\HouseBuilding.csproj.CoreCompileInputs.cache
+C:\Users\СулейменовА.CORP\source\repos\InterfaceHW\HouseBuilding\obj\Debug\HouseBuilding.dll
+C:\Users\СулейменовА.CORP\source\repos\InterfaceHW\HouseBuilding\obj\Debug\HouseBuilding.pdb
