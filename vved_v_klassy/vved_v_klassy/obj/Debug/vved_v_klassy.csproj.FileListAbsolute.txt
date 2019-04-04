@@ -1,0 +1,7 @@
+C:\Users\СулейменовА.CORP\source\repos\vved_v_klassy\vved_v_klassy\obj\Debug\vved_v_klassy.csprojAssemblyReference.cache
+C:\Users\СулейменовА.CORP\source\repos\vved_v_klassy\vved_v_klassy\obj\Debug\vved_v_klassy.csproj.CoreCompileInputs.cache
+C:\Users\СулейменовА.CORP\source\repos\vved_v_klassy\vved_v_klassy\bin\Debug\vved_v_klassy.exe.config
+C:\Users\СулейменовА.CORP\source\repos\vved_v_klassy\vved_v_klassy\bin\Debug\vved_v_klassy.exe
+C:\Users\СулейменовА.CORP\source\repos\vved_v_klassy\vved_v_klassy\bin\Debug\vved_v_klassy.pdb
+C:\Users\СулейменовА.CORP\source\repos\vved_v_klassy\vved_v_klassy\obj\Debug\vved_v_klassy.exe
+C:\Users\СулейменовА.CORP\source\repos\vved_v_klassy\vved_v_klassy\obj\Debug\vved_v_klassy.pdb
